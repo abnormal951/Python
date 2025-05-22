@@ -1,0 +1,27 @@
+La programacion orientada a objetos es uno de los paradigmas mas 
+usados en el desarrollo de software.
+
+todos los los datos en objetos 
+
+objetos se crean apartir de una clase:
+
+Los objetos tienen metodos y atributos
+Atributos son los que defien aun objetos, color, tamaño, peso
+Metodos: son las funciones que hace, avanzar, acelear, frenar
+
+4 pilares de la programacion
+
+Abstraccion: es la forma en que podemos analisar un objeto para 
+poderlo pasar a codigo, es como un plano.
+
+Encapsulamiento: la forma que protegemos algunas clases para que 
+no cualquiera pueda modificarlso.
+
+Herencias: es para poder reutilizar una clase para no tener que construirla 
+desde cero, y es como su nombre lo dice de una clase padre a una clase hija.
+
+Polimorfismo: es la forma en que un objeto creado desde una clase puede
+responder de diferente forma ante una funcion.
+
+En programacion un objeto es la representacion de un elementos, los 
+objetos nos permiten representar elementos de la vida real.
